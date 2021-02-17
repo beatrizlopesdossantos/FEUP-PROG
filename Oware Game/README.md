@@ -1,4 +1,4 @@
-# Project 1 - Oware Game :video_game:
+# First Project - Oware Game :video_game:
 
 Development state of the program: 
 Finished.
